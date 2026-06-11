@@ -47,3 +47,17 @@ Designed and simulated a VLAN-based campus network using Cisco Packet Tracer. Th
 * Router-on-a-Stick
 * DHCP
 * TCP/IP Networking
+
+## Project Screenshots
+
+### Network Topology
+![Topology](screenshots/topology.png)
+
+### VLAN Configuration
+![VLAN Config](screenshots/vlan-config.png)
+
+### Router Interfaces
+![Router Config](screenshots/router-config.png)
+
+### Connectivity Testing
+![Ping Test](screenshots/ping-test.png)
